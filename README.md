@@ -7,14 +7,14 @@
 
 ---
 
-- 🔭 **Currently working on:** [Vulnerability Research](https://github.com/EmilGallajov/zero-day)
+- 🔭 **Working on:** [Vulnerability Research](https://github.com/EmilGallajov/zero-day)
 - 📝 **Writing articles on:** [Medium](https://egsecc.medium.com)
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/egsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="egsec" height="30" width="40" /></a>
+  <a href="https://x.com/egsecc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="egsec" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/emil-gallajov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Emil Gallajov" height="30" width="40" /></a>
   <a href="https://www.youtube.com/c/egsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="egsec" height="30" width="40" /></a>
 </p>

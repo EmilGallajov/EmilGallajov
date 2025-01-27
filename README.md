@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm egsec</h1>
+<h1 align="center">Hi 👋, I'm Emil Gallajov</h1>
 <h3 align="center">Passionate Web3 Security Researcher and Smart Contract Deveoper</h3>
 
 <p align="center"> 

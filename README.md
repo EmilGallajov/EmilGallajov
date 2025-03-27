@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 **Working on:** Web3 Security Research, Smart Contract Development and [Vulnerability Research](https://github.com/EmilGallajov/zero-day)
+- 🔭 **Working on:** Web Security, Bug Hunting and [Vulnerability Research](https://github.com/EmilGallajov/zero-day)
 - 📝 **Writing articles on:** [Medium](https://egsecc.medium.com)
 
 ---

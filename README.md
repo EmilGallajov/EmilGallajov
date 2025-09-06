@@ -9,6 +9,7 @@
 
 - 🔭 **Working on:** Web Security, Bug Hunting and [Vulnerability Research](https://github.com/EmilGallajov/zero-day)
 - 📝 **Writing articles on:** [Medium](https://emilgallajov.medium.com)
+- **Hacking on HackerOne:** [HackerOne](https://hackerone.com/egsec)
 
 ---
 

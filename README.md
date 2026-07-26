@@ -17,8 +17,8 @@
 - 🐛 **Bug Bounty Hunting** - active on [HackerOne](https://hackerone.com/egsec)
 - 🔍 **Secure Code Review** - identifying vulnerabilities at the source level
 - 🔐 **Secure Development** - building and advising on security-first practices
-- 📝 Writing articles on [Medium](https://emilgallajov.medium.com)
-- My Portfolio - [egsec-linktr.ee](https://linktr.ee/egsec)
+- 📝 Writing articles on [egsec.net blog](https://egsec.net/blog)
+- My Website - [egsec.net](https://egsec.net)
 
 ---
 
